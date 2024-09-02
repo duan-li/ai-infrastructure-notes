@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/B. Introduction to machine learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "39da0481e1fdec75",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6bca5258ba7fefde",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "B. Introduction to machine learning"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/B. Introduction to machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for B. Introduction to machine learning"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/B. Introduction to machine learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from B. Introduction to machine learning"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/B. Introduction to machine learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of B. Introduction to machine learning"
             }
           }
         ]
@@ -186,6 +170,11 @@
   },
   "active": "36bb669813d6acc2",
   "lastOpenFiles": [
-    "Welcome.md"
+    "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/A. Basic AI terminology.md",
+    "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/B. Introduction to machine learning.md",
+    "Welcome.md",
+    "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts",
+    "Attachments",
+    "AIF-C01 AWS Certified AI Practitioner"
   ]
 }
