@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/D. Question Breakdown.md",
+                "file": "AIF-C01 AWS Certified AI Practitioner/03 Practical Use Cases for UI/D. AWS ML pipeline services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D. Question Breakdown"
+              "title": "D. AWS ML pipeline services"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/D. Question Breakdown.md",
+                "file": "AIF-C01 AWS Certified AI Practitioner/03 Practical Use Cases for UI/D. AWS ML pipeline services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for D. Question Breakdown"
+              "title": "Backlinks for D. AWS ML pipeline services"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/D. Question Breakdown.md",
+                "file": "AIF-C01 AWS Certified AI Practitioner/03 Practical Use Cases for UI/D. AWS ML pipeline services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from D. Question Breakdown"
+              "title": "Outgoing links from D. AWS ML pipeline services"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/D. Question Breakdown.md",
+                "file": "AIF-C01 AWS Certified AI Practitioner/03 Practical Use Cases for UI/D. AWS ML pipeline services.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of D. Question Breakdown"
+              "title": "Outline of D. AWS ML pipeline services"
             }
           }
         ]
@@ -185,8 +185,13 @@
   },
   "active": "92333aea14c9ef64",
   "lastOpenFiles": [
-    "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/C. Introduction to deep learning.md",
+    "AIF-C01 AWS Certified AI Practitioner/03 Practical Use Cases for UI/C. Introduction to MLOps.md",
+    "AIF-C01 AWS Certified AI Practitioner/03 Practical Use Cases for UI/D. AWS ML pipeline services.md",
+    "AIF-C01 AWS Certified AI Practitioner/03 Practical Use Cases for UI/B. ML model sources and deployment types.md",
+    "AIF-C01 AWS Certified AI Practitioner/03 Practical Use Cases for UI/A. ML pipeline components.md",
     "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/D. Question Breakdown.md",
+    "AIF-C01 AWS Certified AI Practitioner/03 Practical Use Cases for UI",
+    "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/C. Introduction to deep learning.md",
     "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/B. Introduction to machine learning.md",
     "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/A. Basic AI terminology.md",
     "Welcome.md",
