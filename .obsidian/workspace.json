@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIF-C01 AWS Certified AI Practitioner/00 Source/07.md",
+                "file": "AIF-C01 AWS Certified AI Practitioner/00 Source/10. Foundation Model Training and Fine-Tuning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07"
+              "title": "10. Foundation Model Training and Fine-Tuning"
             }
           }
         ]
@@ -170,8 +170,11 @@
   },
   "active": "92333aea14c9ef64",
   "lastOpenFiles": [
+    "AIF-C01 AWS Certified AI Practitioner/00 Source/09. Foundation Model Performance.md",
+    "AIF-C01 AWS Certified AI Practitioner/00 Source/10. Foundation Model Training and Fine-Tuning.md",
+    "AIF-C01 AWS Certified AI Practitioner/00 Source/08. Foundation Model Design.md",
+    "AIF-C01 AWS Certified AI Practitioner/00 Source/07. AWS Generative AI Offerings.md",
     "AIF-C01 AWS Certified AI Practitioner/00 Source/06.md",
-    "AIF-C01 AWS Certified AI Practitioner/00 Source/07.md",
     "AIF-C01 AWS Certified AI Practitioner/06 Generative AI Capabilityes and Limitations/E. Question breakdown.md",
     "temp.md",
     "AIF-C01 AWS Certified AI Practitioner/00 Source",
@@ -197,10 +200,7 @@
     "AIF-C01 AWS Certified AI Practitioner/04 ML Development Lifecycle/D. AWS ML pipeline services.md",
     "AIF-C01 AWS Certified AI Practitioner/04 ML Development Lifecycle/C. Introduction to MLOps.md",
     "AIF-C01 AWS Certified AI Practitioner/04 ML Development Lifecycle/B. ML model sources and deployment types.md",
-    "AIF-C01 AWS Certified AI Practitioner/04 ML Development Lifecycle/A. ML pipeline components.md",
-    "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/D. Question Breakdown.md",
     "AIF-C01 AWS Certified AI Practitioner/03 Practical Use Cases for AI",
-    "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts/C. Introduction to deep learning.md",
     "AIF-C01 AWS Certified AI Practitioner/02 Basic AI Concepts",
     "Attachments",
     "AIF-C01 AWS Certified AI Practitioner"
